@@ -15,7 +15,7 @@ This project is a simple feedback application built with React and TypeScript. I
 
    ```bash
    git clone https://github.com/willeynimbus/Feedback.git
-   cd feedback-app
+   cd Feedback
    ```
 
 2. Install dependencies for both the frontend and backend:
